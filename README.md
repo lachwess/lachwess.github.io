@@ -2,9 +2,7 @@
 <html>
   <head>
     <style type="text/css">
-    strong {
-      color: #eeeeee;
-    }
+    strong {color: #eeeeee;}
     </style>
   </head>
   <body>
