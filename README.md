@@ -7,9 +7,12 @@
     }
   </style>
  </head>
+ <body>
+  <strong><h1><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><em> happy happy happy </em><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><h1/></strong>
+ </body>
 </html>
 
-<strong><h1><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><em> happy happy happy </em><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><h1/></strong>
+
 
 
  <h1>Lachlan Howard</h1>
