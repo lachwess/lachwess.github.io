@@ -18,7 +18,7 @@
   <li> <a href="https://lachwess.github.io/collage">Collage</a></li>
 </ul>
 <a href="https://www.instagram.com/lach.mess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram</a>
-
+<br>
 <style type="text/css">
     strong {
       color: #eeeeee;
