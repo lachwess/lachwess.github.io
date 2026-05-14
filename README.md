@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
+    <style type="text/css">
+    strong {
+      color: #eeeeee;
+    }
+</style>
   </head>
   <body>
     <h1>Lachlan Howard</h1>
