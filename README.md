@@ -5,7 +5,7 @@
     strong {
       color: #eeeeee;
     }
-</style>
+    </style>
   </head>
   <body>
     <h1>Lachlan Howard</h1>
