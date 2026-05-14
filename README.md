@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    body {
+    body [
   background-color: #ffffff; 
-}
+]
   </head>
   <body>
     <h1>Lachlan Howard</h1>
