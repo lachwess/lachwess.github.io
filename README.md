@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style type="text/css">
-    strong {color: #eeeeee;}
-    </style>
+    body {
+  background-color: #ffffff; 
+}
   </head>
   <body>
     <h1>Lachlan Howard</h1>
