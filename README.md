@@ -1,7 +1,7 @@
 # <em> fuck you </em>
 
 <head>
- # Lachlan Howard
+ <h1>Lachlan Howard</h1>
 </head>
 <body>
   Hi! I'm a multimedia artist currently working on my BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. This is my website!
