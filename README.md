@@ -2,8 +2,8 @@
 <html>
  <head>
   <style type="text/css">
-    strong {
-      color: #eeeeee;
+  strong {
+      color: #00;
     }
   </style>
  </head>
