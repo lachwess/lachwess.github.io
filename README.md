@@ -3,7 +3,7 @@
  <head>
   <style type="text/css">
   strong {
-      color: #00;
+      color: #000000;
     }
   </style>
  </head>
