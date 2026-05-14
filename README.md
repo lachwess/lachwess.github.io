@@ -1,15 +1,16 @@
-<head>
-  <style>
-  body {background-color: #000000; }
-  </style>
-</head>
-<h1>Lachlan Howard</h1>
-<img width="384" height="367" alt="headshot 2" src="https://github.com/user-attachments/assets/daa9a8fa-bf6c-4867-a7d5-0a0384bd2774" />
-<h3>
-  Hi! I'm a multimedia artist currently working on my BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. 
-</h3>
-<h1>Page Title</h1>
-<h2>Page Subtitle</h2>
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h1>Lachlan Howard</h1>
+    <img width="384" height="367" alt="headshot 2" src="https://github.com/user-attachments/assets/daa9a8fa-bf6c-4867-a7d5-0a0384bd2774" />
+    <h3>
+      Hi! I'm a multimedia artist currently working on my BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. 
+    </h3>
+    <h1>Page Title</h1>
+    <h2>Page Subtitle</h2>
 
 <p>Lorem ipsum <strong>dolor</strong> sit <em>amet</em></p>
 
@@ -20,5 +21,6 @@
   <li> <a href="https://lachwess.github.io/collage">Collage</a></li>
 </ul>
 <a href="https://www.instagram.com/lach.mess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram</a>
-<br>
-
+    <br>
+  </body>
+</html>
