@@ -1,4 +1,4 @@
-# <em> happy happy happy </em>
+# <gif width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><em> happy happy happy </em>
 
 <head>
  <h1>Lachlan Howard</h1>
