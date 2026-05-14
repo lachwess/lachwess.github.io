@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-
 <h1><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><em> happy happy happy </em><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><h1/>
 
 
@@ -22,4 +18,4 @@
 </ul>
 <a href="https://www.instagram.com/lach.mess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram</a>
 <br>
-</html>
+
