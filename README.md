@@ -1,13 +1,11 @@
 # lachwess.github.io
 
-<html>
-  <head>
-    <title>My Cool Webpage<title>
-  </head>
+<h1>Page Title</h1>
 
-  <body>
-    <h1>This is a heading</h1>
-    <p>This is a paragraph</p>
-  </body>
+<p>Lorem ipsum <strong>dolor</strong> sit <em>amet</em></p>
 
-</html>
+<ol>
+  <li>Item number one</li>
+  <li>Item number two</li>
+  <li>Item number three</li>
+</ol>
