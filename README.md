@@ -2,9 +2,9 @@
  <link rel="style" type="text/css href="style.css">
 </head>
 <h1><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><em> happy happy happy </em><img width="50" height="50" src="https://blob.gifcities.org/gifcities/646S2RHM574WLFSPLPJBMNEXWYIDLUSY.gif"><h1/>
+<strong> Hello </strong>
 
-
- <h1>Lachlan Howard</h1>
+<h1>Lachlan Howard</h1>
 <h6>
   Hi! I'm a multimedia artist currently working on my BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. This is my website!
 </h6>
