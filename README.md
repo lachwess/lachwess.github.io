@@ -1,5 +1,5 @@
 # lachwess.github.io
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>My Cool Webpage<title>
