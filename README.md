@@ -1,8 +1,8 @@
-
-<style>
+<head>
+  <style>
   body {background-color: #000000; }
-</style>
-
+  </style>
+</head>
 <h1>Lachlan Howard</h1>
 <img width="384" height="367" alt="headshot 2" src="https://github.com/user-attachments/assets/daa9a8fa-bf6c-4867-a7d5-0a0384bd2774" />
 <h3>
