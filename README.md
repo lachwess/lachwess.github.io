@@ -5,9 +5,9 @@
     strong {
       color: #eeeeee;
     }
-</style>
- <h1>Lachlan Howard</h1>
+ </style>
 </head>
+ <h1>Lachlan Howard</h1>
 <body>
   Hi! I'm a multimedia artist currently working on my BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. This is my website!
 </body>
