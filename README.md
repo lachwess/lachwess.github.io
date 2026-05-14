@@ -6,7 +6,7 @@
 <p>Lorem ipsum <strong>dolor</strong> sit <em>amet</em></p>
 
 <ul>
-  <li> <a href="https://lachwess.github.io/page2">Sculpture</a></li>
+  <li> <a href="https://lachwess.github.io/sculpture">Sculpture</a></li>
   <li>Performance</li>
   <li>Photography</li>
 </ul>
