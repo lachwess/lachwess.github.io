@@ -7,7 +7,7 @@
 
 <ul>
   <li> <a href="https://lachwess.github.io/sculpture">Sculpture</a></li>
-  <li>Performance</li>
-  <li>Photography</li>
+  <li> <a href="https://lachwess.github.io/performance">Performance</a></li>
+  <li> <a href="https://lachwess.github.io/photography">Photography</a></li>
 </ul>
 <a href="https://www.instagram.com/lach.mess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram</a>
