@@ -17,3 +17,10 @@
 <img width="900" height="600" src="https://i.imgur.com/vIwuBAm.jpeg">
 <img width="900" height="600" src="https://i.imgur.com/UI8bEcN.jpeg">
 <img width="900" height="600" src="https://i.imgur.com/lalEb9y.jpeg">
+
+ <ul>
+      <li> <a href="https://lachwess.github.io/performance">Performance</a></li>
+      <li> <a href="https://lachwess.github.io/photography">Photography</a></li>
+      <li> <a href="https://lachwess.github.io/collage">Collage</a></li>
+   <li> <a href="https://lachwess.github.io/">Home</a></li>
+      </ul>
