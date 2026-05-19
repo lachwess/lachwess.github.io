@@ -5,3 +5,11 @@
 <br>
 <h1>Desktop (2025)</h1>
 <img width="1115.25" height="716.25" src="https://i.imgur.com/GrK0uv9.jpeg">
+
+
+<ul>
+      <li> <a href="https://lachwess.github.io/sculpture">Sculpture</a></li>
+      <li> <a href="https://lachwess.github.io/performance">Performance</a></li>
+      <li> <a href="https://lachwess.github.io/photography">Photography</a></li>
+      <li> <a href="https://lachwess.github.io/">Home</a></li>
+      </ul>
