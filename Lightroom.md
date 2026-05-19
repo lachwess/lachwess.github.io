@@ -1,1 +1,1 @@
-<h1>Lightroom Artistic Editing</h1>
+<h1>Lightroom Experiments</h1>
