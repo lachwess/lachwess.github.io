@@ -7,6 +7,12 @@
   <li> <a href="https://lachwess.github.io/Digital-Photography">Standard Digital Photography</a></li>
  </ul>
 <br>
+<h1>Son of Rotting (2025)</h1>
+ <img width="996" height="722" src="https://i.imgur.com/GPvgxOW.png">
+ <h1>Red Mist at the Castle</h1>
+ <img width="1050" height="700" src="https://i.imgur.com/AJyCRf9.jpeg">
+ <h1>Shooting Stars</h1>
+ <img width="900" height="600" src="https://i.imgur.com/a1c06ry.jpeg">
  <ul>
       <li> <a href="https://lachwess.github.io/sculpture">Sculpture</a></li>
       <li> <a href="https://lachwess.github.io/performance">Performance</a></li>
