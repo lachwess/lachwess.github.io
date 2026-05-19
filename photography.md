@@ -4,7 +4,7 @@
   <li> <a href="https://lachwess.github.io/Darkroom">Darkroom Photography</a></li>
   <li> <a href="https://lachwess.github.io/Lightroom">Lightroom Experiments</a></li>
   <li> <a href="https://lachwess.github.io/Long Exposure">Long Exposure</a></li>
-  <li> <a href="https://lachwess.github.io/Digital-Photography">Digital Photography</a></li>
+  <li> <a href="https://lachwess.github.io/Digital-Photography">Standard Digital Photography</a></li>
  </ul>
 <br>
  <ul>
