@@ -9,7 +9,7 @@
       Lachlan Howard is a multimedia artist from North Carolina currently working on his BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. 
     </h3>
 
-  <p>My work:</p>
+  <h1>My work:</h1>
 
   <ul>
       <li> <a href="https://lachwess.github.io/sculpture">Sculpture</a></li>
