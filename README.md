@@ -6,7 +6,7 @@
     <h1>Lachlan Howard</h1>
     <img width="384" height="367" alt="headshot 2" src="https://github.com/user-attachments/assets/daa9a8fa-bf6c-4867-a7d5-0a0384bd2774" />
     <h3>
-      Lachlan Howard is a multimedia artist from North Carolina currently working on his BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. 
+      Hi there! I'm a multimedia artist from North Carolina currently working on my BFA in Sculpture and Expanded Media at the Cleveland Institute of Art. 
     </h3>
 
   <h1>My work:</h1>
