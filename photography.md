@@ -1,3 +1,7 @@
+---
+layout: Base
+---
+
 <em> Photography </em>
 <h1>All</h1>
  <ul>
